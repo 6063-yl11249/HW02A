@@ -48,7 +48,7 @@ Link:
 
 
 Image with url:  
-![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-00.jpg)
+![image description](https://dm-gy-6063-2023f-d.github.io/assets/homework/02/clark-espaco-modulado-03.jpg)
 
 
 Image on repo:  
@@ -62,3 +62,7 @@ this is a new line.
 To start a new paragraph, leave an empty line between two lines of text.
 
 This is a new paragraph.
+
+1. Create a black canvas
+2. Draw the first beige-colored quadrilateral on the top-left corner
+3. Draw the second quadrilateral on the bottom-right corner
